@@ -1,3 +1,5 @@
+# Regresión Lineal
+
 La regresión lineal es un modelo fundamental que busca establecer una relación lineal entre una variable dependiente (o de respuesta) y una o más variables independientes (o predictoras). En su forma más simple, la regresión lineal simple involucra una única variable predicadora, y la relación se representa mediante una línea recta. Cuando hay múltiples variables predictoras, hablamos de regresión lineal múltiple, y la relación se visualiza como un hiperplano en un espacio de dimensiones superiores.
 
 La idea central es encontrar la "mejor" línea (o hiperplano) que se ajuste a los datos observados, minimizando la diferencia entre los valores predichos por la línea y los valores reales de la variable dependiente.
